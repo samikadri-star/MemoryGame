@@ -1,0 +1,6 @@
+{
+  "name": "Memory Realm - Visual Recall Game",
+  "description": "An atmospheric memory and visual recall challenge game with random image decks, 3D card flips, synth audio, and score history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
